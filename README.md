@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-# 💫 About Me:
 # 💫 About Me:<br><br>Hi, I'm Rúben Amoreirinha👋  <br>🔭 I’m currently working on exciting projects in software development and problem solving  <br>🌱 I’m learning more about mobile app development & backend systems  <br>💬 Ask me about coding in C#, Swift, Python, Java, or C  <br>⚡ Fun fact: I love tackling algorithmic challenges for fun 🚀  <br><br>---<br><br># 🌐 Socials:<br><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link) <br><br>---<br><br># 💻 Tech Stack:<br><br>![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  <br>![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  <br>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  <br>![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  <br>
 
 
